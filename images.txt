@@ -1,1 +1,9 @@
 nginx
+redis
+rabbitmq
+elastic/elasticsearch
+mysql
+mongo
+xuxueli/xxl-job-admin
+nacos/nacos-server
+jenkins/jenkins
